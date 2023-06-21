@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Mohammed Yasser's profile!
-  <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" width="28">
+ <!-- <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/life_balance.gif" width="28"> -->
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
